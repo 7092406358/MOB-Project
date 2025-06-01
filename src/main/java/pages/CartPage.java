@@ -18,7 +18,7 @@ public class CartPage  extends AppWrappers{
 	 
 	
 	public CartPage(RemoteWebDriver driver, ExtentTest test){
-		this.driver = driver;
+		this.driver = driver1;
 		this.test = test;
 	}
 	
